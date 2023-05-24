@@ -562,4 +562,6 @@ transform:scale(1.1);
 .about .carte{
   height: 285px;
   width: 285px;
+  display: flex;
 }
+
